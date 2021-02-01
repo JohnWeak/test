@@ -1,0 +1,6 @@
+modificato da github.com
+
+if(it_works)
+	yay();
+else
+	nay();
